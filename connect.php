@@ -2,6 +2,7 @@
 
 // 1. Database Connection Parameters
 $veriable = "github start";
+$test     = "test";
 $host     = '127.0.0.1';
 $db       = 'erp_masters';
 $user     = 'postgres';
